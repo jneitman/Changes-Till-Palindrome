@@ -10,8 +10,8 @@ def main(argv):
         def pale(start, end): #shortest distance algorithm (acts like original code, but more efficient)
             
             """ This function will find the fewest number of changes needed to make a word a palindrome.
-            Resulting word will typically not be an actual word.  Has limited capability and needs additional
-            companion code to account for words with special letter arrangements. 
+            Resulting word will typically not be an actual word.  Has limited capability but the additional
+            companion code at the very end accounts for words with special letter arrangements. 
             
             Examples:
             loop --> 1 change needed
